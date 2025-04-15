@@ -1,3 +1,3 @@
 hello 👋
 
-[suhasasumukh.me](https://suhasasumukh.me/)
+[suhasasumukh.com](https://suhasasumukh.com/)
